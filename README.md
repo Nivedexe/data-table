@@ -65,3 +65,4 @@ export function UserTable({ users }: { users: User[] }) {
 ## License
 
 MIT
+
